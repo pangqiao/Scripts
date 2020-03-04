@@ -1,6 +1,5 @@
 # unzip.py
-It is used to unzip almost all common zipped format. Put the this file together the zipped files int the same folder and just run. It can even unzip
-the files in the zipped files.
+This file is used to unzip almost all the common zipped format. Put the this file together the zipped files int the same folder and just run it. It can even unzip the files in the zipped files.
 
 supportList = ['.zip', '.7z', '.gz', '.tar','.xz','.bz2', '.tbz2', '.iso']
 
